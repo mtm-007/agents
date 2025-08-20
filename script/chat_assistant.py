@@ -1,6 +1,6 @@
 import json
 
-from Ipython.display import display, HTML
+from IPython.display import display, HTML
 import markdown
 
 
