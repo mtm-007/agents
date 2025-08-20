@@ -1,3 +1,4 @@
 minsearch
+markdown
 openai
 python-dotenv
